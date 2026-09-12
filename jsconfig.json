@@ -1,0 +1,10 @@
+/** @type {import('jsconfig')} */
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["src"]
+}

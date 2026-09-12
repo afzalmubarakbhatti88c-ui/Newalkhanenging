@@ -1,0 +1,1 @@
+import{r}from"./index-YhLc6Yzh.js";const c="New Al Khan Engineering Works";function o(e,t){r.useEffect(()=>{document.title=e?`${e} | ${c}`:`${c} | Cosmetic & Pharmaceutical Machinery`;const n=document.querySelector('meta[name="description"]');return n&&t&&n.setAttribute("content",t),()=>{document.title=`${c} | Cosmetic & Pharmaceutical Machinery`}},[e,t])}export{o as u};
